@@ -463,6 +463,11 @@
       "masterName": "waterSourceWithSubSource",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+	"CheckList": {
+      "masterName": "CheckList",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "ws-services-calculation": {
